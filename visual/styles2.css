@@ -1,0 +1,82 @@
+body {
+    background-image: url(..//Media/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.texto {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    text-shadow: 90px black 
+}
+
+.texto2 {
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.582);   
+}
+
+p {
+    color: rgb(255, 255, 255);
+    opacity: 0.88;
+}
+
+a {
+    text-decoration: none;
+}
+
+.textin {
+    color: white;
+    text-decoration: none;
+}
+
+.foto {
+    margin-top: 5rem;
+    width: 250px;
+    height: 250px;
+    border: 5px;
+    border-style: double;
+    border-radius: 50%;
+}
+
+.centralizar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.rodape {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.instagram {
+    height: 50px;
+    width: 50px;
+}
+
+.linkedin {
+    height: 54px;
+    width: 54px; 
+}
+
+.github {
+    height: 43px;
+    width: 43px;
+}
