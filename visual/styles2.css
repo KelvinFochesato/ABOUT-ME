@@ -52,6 +52,7 @@ a {
     border: 5px;
     border-style: double;
     border-radius: 50%;
+    user-select: none;
 }
 
 .centralizar {
@@ -64,6 +65,7 @@ a {
     width: 100%;
     display: flex;
     align-items: center;
+    user-select: none;
 }
 
 .instagram {
